@@ -750,6 +750,7 @@ require("lazy").setup({
 	require("plugins.obsidian"),
 	require("plugins.codesnap"),
 	require("plugins.neogit"),
+	require("plugins.image_nvim"),
 
 	-- For additional information with loading, sourcing and examples see `:help lazy.nvim-🔌-plugin-spec`
 	-- Or use telescope!
