@@ -35,6 +35,8 @@ return {
 			substitutions = {},
 		},
 
+		disable_frontmatter = true,
+
 		-- Optional, completion of wiki links, local markdown links, and tags using nvim-cmp.
 		completion = {
 			-- Set to false to disable completion.
