@@ -87,13 +87,7 @@ require("lazy").setup({
 
 	require("plugins.colorscheme"),
 
-	-- Highlight todo, notes, etc in comments
-	{
-		"folke/todo-comments.nvim",
-		event = "VimEnter",
-		dependencies = { "nvim-lua/plenary.nvim" },
-		opts = { signs = false },
-	},
+	require("plugins.todo_comments"),
 
 	require("plugins.mini"),
 	require("plugins.treesitter"),
