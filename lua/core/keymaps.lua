@@ -116,4 +116,4 @@ vim.keymap.set("n", "<leader>d", vim.diagnostic.open_float, { desc = "Open float
 vim.keymap.set("n", "<leader>q", vim.diagnostic.setloclist, { desc = "Open diagnostics list" })
 
 -- Obsidian: search by vault
-vim.keymap.set("n", "<leader>so", ":ObsidianSearch<CR>", { desc = "Obsidian search" })
+vim.keymap.set("n", "<leader>so", ":Obsidian search<CR>", { desc = "Obsidian search" })
