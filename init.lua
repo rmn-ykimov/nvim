@@ -1,7 +1,6 @@
 require("core.options")
 require("core.keymaps")
 require("core.autocommands")
-
 require("plugin-manager.lazy").setup()
 
 -- The line beneath this is called `modeline`. See `:help modeline`
