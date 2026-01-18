@@ -44,6 +44,7 @@ local function get_plugins()
 		require("plugins.codesnap"),
 		require("plugins.neogit"),
 		require("plugins.image_nvim"),
+		require("plugins.nvim_java")
 	}
 end
 
