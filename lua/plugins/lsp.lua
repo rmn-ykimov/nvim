@@ -1,3 +1,11 @@
+-- https://github.com/folke/lazydev.nvim
+-- https://github.com/neovim/nvim-lspconfig
+-- https://github.com/Bilal2453/luvit-meta
+-- https://github.com/mason-org/mason.nvim
+-- https://github.com/mason-org/mason-lspconfig.nvim
+-- https://github.com/WhoIsSethDaniel/mason-tool-installer.nvim
+-- https://github.com/hrsh7th/cmp-nvim-lsp
+
 return {
     {
         -- `lazydev` configures Lua LSP for your Neovim config, runtime and plugins

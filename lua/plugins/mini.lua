@@ -1,5 +1,6 @@
+-- https://github.com/nvim-mini/mini.nvim
 return { -- Collection of various small independent plugins/modules
-    "echasnovski/mini.nvim",
+    "nvim-mini/mini.nvim",
     config = function()
         -- Better Around/Inside textobjects
         --

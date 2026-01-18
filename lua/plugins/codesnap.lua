@@ -1,3 +1,4 @@
+-- https://github.com/mistricky/codesnap.nvim
 return {
 	{
 		"mistricky/codesnap.nvim",
